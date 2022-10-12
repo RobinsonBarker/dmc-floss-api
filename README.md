@@ -10,7 +10,7 @@ I've used a DMC floss to hex code list, a hex code to RGB converter, and a lot o
 -Needs a proper landing page.<br>
 -Needs some CSS to make things look more put together on said landing page.<br>
 -Needs some formatting to keep everything uniform and clean.<br>
--Needs an explantion on why you won't find mixed color embroidery threads on the list.
+-Needs an explanation on why you won't find mixed color embroidery threads on the list.
 
 ## Lessons Learned:
 
